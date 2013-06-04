@@ -1,0 +1,37 @@
+/*
+ Omid Gharib - OMG Tooltipo
+ Author : Omid Gharib
+ Author Contacts:
+   Github: https://github.com/omidgharib
+   E-mail: omidgharib@yahoo.com
+*/
+.tooltipo {
+  position: relative;
+  display: inline;
+}
+.tooltipo:hover:after {
+  background: #333;
+  background-color: #111;
+  background-color: rgba(17,17,17,0.8);
+  border-radius: 5px;
+  top: 120%;
+  right: -15px;
+  color: #eee;
+  content: attr(data-title);
+  text-align: center;
+  padding: 5px 10px;
+  position: absolute;
+  z-index: 999;
+  width: 220px;
+}
+.tooltipo:hover:before {
+  border: solid;
+  border-color: transparent transparent #111 transparent;
+  border-color: transparent transparent rgba(17,17,17,0.8) transparent;
+  border-width: 7px;
+  top: 9px;
+  content: "";
+  right: 0;
+  position: absolute;
+  z-index: 999;
+}
