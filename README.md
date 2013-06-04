@@ -1,10 +1,10 @@
 ## OMG Tooltipo
 This is a cool Tooltip 
-This project had written only with stylus(compiled to css)
+this project had written only with stylus(compiled to css)
 
 ### Watching Demo
 
-[Demo](http://jsbin.com/uxibef)
+[Demo](http://jsbin.com/uxibef/15/watch)
 
 ### Contributing
 
