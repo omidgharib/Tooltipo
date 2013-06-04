@@ -4,7 +4,7 @@ this project had written only with stylus(compiled to css)
 
 ### Watching Demo
 
-[Demo](http://jsbin.com/uxibef/15/watch)
+[Demo](http://jsbin.com/uxibef/19/watch)
 
 ### Contributing
 
