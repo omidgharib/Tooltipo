@@ -1,6 +1,6 @@
 ## OMG Tooltipo
 This is a cool Tooltip 
-this project had written only with stylus(compiled to css)
+this project had written with stylus(compiled to css)
 
 ### Watching Demo
 
