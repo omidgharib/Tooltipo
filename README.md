@@ -2,6 +2,10 @@
 This is a cool Tooltip 
 This project had written only with stylus(compiled to css)
 
+### Watching Demo
+
+[Demo](http://jsbin.com/uxibef)
+
 ### Contributing
 
 * Check our projec's website and report any bugs or ideas in [issues](https://github.com/omidgharib/Tooltipo/issues)
